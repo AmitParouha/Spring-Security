@@ -1,0 +1,5 @@
+Future Enhancement
+==================
+-> Create Payload classes
+-> Convert Payload to Entity and vise versa using ModelMapper
+-> Establish Exception Handling code
